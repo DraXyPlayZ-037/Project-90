@@ -1,0 +1,18 @@
+.simbull {
+    color: white;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+body {
+    background-color: salmon;
+}
+
+.evern {
+    border-radius: 20px;
+}
+
+#output {
+    background-color: white;
+    width: 400px;
+}
